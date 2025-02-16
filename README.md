@@ -22,7 +22,7 @@ The model is trained using the dataset:
 ## Getting Started
 1. Clone this repository:
     ```bash
-    git clone <[repository_url](https://github.com/whatsroopalupto/Stock_Price_Prediction)>
+    git clone https://github.com/whatsroopalupto/Stock_Price_Prediction
     ```
 2. Install the required dependencies:
     ```bash
@@ -39,7 +39,7 @@ The model is trained using the dataset:
 The model visualizes the predicted stock price trends compared to actual prices, enabling an analysis of its forecasting accuracy.
 
 ### Sample Output
-![Model Prediction](result/google stock.png)
+![Model Prediction](result/google%20stock.png)
 
 ## Future Improvements
 - Incorporate additional features like trading volume and other financial indicators.
@@ -48,5 +48,3 @@ The model visualizes the predicted stock price trends compared to actual prices,
 ## License
 This project is licensed under the MIT License.
 
-## License
-This project is licensed under the MIT License.
